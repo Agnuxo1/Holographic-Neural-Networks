@@ -1,5 +1,10 @@
 ## Holographic Neural Networks: Exploring Optical Raytracing for Efficient Computation
 
+**Author:** Francisco Angulo de Lafuente | [ORCID 0009-0001-1634-7063](https://orcid.org/0009-0001-1634-7063) | Copyright 2024 | Attribution recorded 2026-11-04.
+
+**Citation and reuse.** See [CITATION.cff](CITATION.cff). This project contains open-source material under the MIT License. When redistributing copies or substantial portions, retain the copyright and permission notices. If you build on this work, please cite the project and credit Francisco Angulo de Lafuente (ORCID: 0009-0001-1634-7063). Help advance scientific knowledge: we welcome reproducible results, corrections, and contributions.
+
+
 **Abstract:** This paper presents a novel approach to neural network architecture inspired by the principles of physical optics. We introduce a holographic neural network (HNN) model that leverages optical raytracing to simulate the propagation of light between neurons represented as points in 3D space. This paradigm shift from traditional matrix multiplication offers the potential for enhanced computational efficiency and a more intuitive representation of information processing.  We present a proof-of-concept implementation using Python and discuss the potential advantages and future research directions for HNNs.
 
 **1. Introduction:**

@@ -1,3 +1,10 @@
+# Project: Holographic Neural Networks
+# Copyright (c) 2024 Francisco Angulo de Lafuente
+# Author: Francisco Angulo de Lafuente
+# ORCID: https://orcid.org/0009-0001-1634-7063
+# Attribution recorded: 2026-11-04
+# SPDX-License-Identifier: MIT
+
 """
 Optical Raytracing Simulation for a Holographic Neural Network
 

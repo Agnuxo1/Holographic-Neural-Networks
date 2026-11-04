@@ -1,0 +1,17 @@
+{
+  "project": "Holographic Neural Networks",
+  "author": "Francisco Angulo de Lafuente",
+  "orcid": "https://orcid.org/0009-0001-1634-7063",
+  "recorded_on": "2026-11-04",
+  "canonical_url": "https://github.com/Agnuxo1/Holographic-Neural-Networks",
+  "original_source_year": 2024,
+  "baseline_commit": "e1a5193b0d2f12587f7df8e105befe65f7ecae43",
+  "license": "MIT",
+  "license_scope": "Original repository material as covered by the existing LICENSE. Third-party references, software, linked media, and external assets retain their own terms.",
+  "source_files": [
+    "Holographic-Neural-Networks.py"
+  ],
+  "preserved_drafts": [],
+  "reuse_note": "This project contains open-source material under the MIT License. When redistributing copies or substantial portions, retain the copyright and permission notices. If you build on this work, please cite the project and credit Francisco Angulo de Lafuente (ORCID: 0009-0001-1634-7063). Help advance scientific knowledge: we welcome reproducible results, corrections, and contributions.",
+  "copyright_year": 2024
+}
