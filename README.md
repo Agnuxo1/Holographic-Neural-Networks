@@ -1,3 +1,7 @@
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This small Python proof of concept makes spatial neural activation explicit through neuron positions, distance-based attenuation and a three-dimensional display. It offers an approachable sandbox for studying alternative representations without requiring a pretrained language model. The <a href="Holographic-Neural-Networks.py">complete experiment</a> is easy to inspect and adapt, while learning algorithms and more realistic optical interactions remain future research directions.</sub>
+<!-- impact-note:end -->
+
 ## Holographic Neural Networks: Exploring Optical Raytracing for Efficient Computation
 
 **Author:** Francisco Angulo de Lafuente | [ORCID 0009-0001-1634-7063](https://orcid.org/0009-0001-1634-7063) | Copyright 2024 | Attribution recorded 2026-11-04.
